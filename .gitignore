@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+received/*
+!received/.gitkeep
+captured/*
+!captured/.gitkeep
+.venv/
+*.zip
+*.bin
+*.pyc
+.venv/
+venv/

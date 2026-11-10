@@ -1,0 +1,3 @@
+# Only needed for plots (benchmark) and webcam capture - the protocol itself uses the standard library only
+matplotlib>=3.5
+opencv-python>=4.5
