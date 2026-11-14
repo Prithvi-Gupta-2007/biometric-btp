@@ -218,7 +218,7 @@ def send_file(host, port, path,
             chunk_size, window,
             corrupt_prob, seed, timeout,
             live=live
-        )
+        )   
 
 
 def print_report(path, m):
